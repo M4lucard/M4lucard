@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @M4lucard AKA Wout
-- 👀 I’m interested in Cybersecurity and specifically OT and Hardware/IoT Security
-- 🌱 I’m currently going through the IEC62443 certification and I am constantly looking at improving my knowledge in the field of OT, ICS and IoT.
-- 💞️ I’m looking to collaborate on projects in my knowledge domain and interest range, and that are in general just fun and engaging
-- I am also a huge Dungeons & Dragons nerd, so some of my private repos are just filled with notes and campaign ideas
-   
+- Hi, I’m @M4lucard AKA Wout
+- I do a lot of random things, but primarily in OT/IoT pentesting.
+- THM, HTB and other learning sites are common.
+- Also using github for Dungeons and Dragons prep
+
+Boot.dev Profile:
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ff8c523c-4c75-46bd-abd9-33c314aa662f/thumbnail" >
+</p> 
