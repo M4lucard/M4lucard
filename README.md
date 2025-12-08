@@ -7,3 +7,8 @@ Boot.dev Profile:
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/ff8c523c-4c75-46bd-abd9-33c314aa662f/thumbnail" >
 </p> 
+
+THM profile:
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/MidgeJoker.png"  alt="Your Image Badge" />
+</p>
