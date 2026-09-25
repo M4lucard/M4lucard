@@ -3,11 +3,11 @@
 - THM, HTB and other learning sites are common.
 - Also using github for Dungeons and Dragons prep
 
-Boot.dev Profile:
+## Security Platforms
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/GlitchGoblin)
 
-THM profile:
-
+## Commit History - Colorised
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4lucard/M4lucard/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4lucard/M4lucard/output/github-snake.svg">
